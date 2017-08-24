@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="zer0MQTTServer/src"/>
+	<classpathentry kind="lib" path="zer0MQTTServer/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="zer0MQTTServer/lib/pahoMqtt.jar"/>
+	<classpathentry exported="true" kind="lib" path="zer0MQTTServer/lib/druid-1.0.9.jar"/>
+	<classpathentry kind="lib" path="zer0MQTTServer/lib/json.jar"/>
+	<classpathentry kind="lib" path="zer0MQTTServer/lib/mysql-connector-java-5.0.4-bin.jar"/>
+	<classpathentry kind="lib" path="zer0MQTTServer/lib/quartz-2.2.2.jar"/>
+	<classpathentry kind="lib" path="zer0MQTTServer/lib/quartz-jobs-2.2.2.jar"/>
+	<classpathentry kind="lib" path="zer0MQTTServer/lib/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="zer0MQTTServer/lib/slf4j-log4j12-1.7.7.jar"/>
+	<classpathentry kind="lib" path="zer0MQTTServer/lib/mapdb-1.0.8.jar"/>
+	<classpathentry kind="lib" path="zer0MQTTServer/lib/netty-all-5.0.0.Alpha2.jar" sourcepath="/netty-5.0.0"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
