@@ -3,9 +3,9 @@ package com.syxy.protocol.mqttImp.process.Interface;
 /**
  *  身份验证接口
  * 
- * @author zer0
+ * @author Xuepf
  * @version 1.0
- * @date 2015-3-8
+ * @date 2017-3-8
  */
 public interface IAuthenticator {
 
