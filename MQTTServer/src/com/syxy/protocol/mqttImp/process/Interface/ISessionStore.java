@@ -5,9 +5,9 @@ import com.syxy.protocol.mqttImp.process.subscribe.Subscription;
 /**
  *  会话存储类
  * 
- * @author zer0
+ * @@author Xuepf
  * @version 1.0
- * @date 2015-05-07
+ * @date 2017-05-07
  */
 public interface ISessionStore {
 
